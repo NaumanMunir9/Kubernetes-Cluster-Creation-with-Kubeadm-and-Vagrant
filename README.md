@@ -16,7 +16,7 @@ Welcome to the comprehensive video tutorial on setting up a Kubernetes Cluster C
 
 ## Problem Statement
 
-Modern application development demands scalability, flexibility, and efficiency. Kubernetes has emerged as the de facto solution for container orchestration, but setting up a Kubernetes cluster from scratch can be a daunting task, especially for beginners. Traditional cloud-based solutions like Amazon EKS might seem like the easy way out, but they can be costly, and you might prefer the control and cost savings that come with managing your own infrastructure.
+Modern application development demands scalability, flexibility, and efficiency. Kubernetes has emerged as the de facto solution for container orchestration, but setting up a Kubernetes cluster from scratch can be a daunting task, especially for beginners.
 
 This is where our tutorial comes to the rescue. We understand the need for an accessible, cost-effective, and educational solution to set up a Kubernetes cluster using Kubeadm, a reliable and versatile tool. This tutorial addresses the challenges faced by developers and system administrators who want to harness the power of Kubernetes on their own terms.
 
